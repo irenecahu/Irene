@@ -3,7 +3,7 @@
 ## Sobre mí
 Soy una apasionada de la informática y la tecnología, actualmente formándome como **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**. Me considero una persona proactiva, con una gran capacidad de adaptación y orientada a la resolución analítica de problemas. 
 
-Mis principales intereses dentro del sector IT se centran en la *automatización de infraestructuras* y la *administración de entornos basados en Linux*.
+Mis principales intereses dentro del sector se centran en la *automatización de infraestructuras* y la *administración de entornos basados en Linux*.
 
 ---
 
@@ -23,6 +23,3 @@ A lo largo del curso, he desarrollado de forma práctica varios proyectos técni
 1.  **Despliegue de Servidor Web Seguro:** Instalación y configuración de un servidor Apache sobre Linux, asegurando el tráfico mediante certificados SSL/TLS y configurando hosts virtuales.
 2.  **Configuración de Red Local Empresarial:** Diseño lógico de una infraestructura de red interna simulada, incluyendo la asignación de direccionamiento estático y segmentación de subredes.
 3.  **Script de Automatización de Backups:** Programación de una herramienta en Bash para realizar copias de seguridad automáticas de directorios críticos y bases de datos.
-
-### Código destacado de proyecto
-A continuación se muestra un fragmento del script en `Bash` utilizado para automatizar el respaldo de configuraciones del sistema en el directorio `/backup`:
